@@ -1,6 +1,6 @@
-# Open_CV_Playground
+# Computer_Vision_Playground
 
-Welcome to Open CV Playground , this is a collection of OpenCV tutorials and exercises that I practiced on Google Colab. It’s a hands-on playground where I learned and experimented with basic to intermediate computer vision concepts.
+Welcome to Computer Vision Playground , this is a collection of OpenCV tutorials and exercises that I practiced on Google Colab. It’s a hands-on playground where I learned and experimented with basic to intermediate computer vision concepts.
 
 **WHAT IT CONTAINS?**
 
