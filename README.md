@@ -5,8 +5,7 @@ Welcome to Computer Vision Playground , this is a collection of OpenCV tutorials
 
 ## Topics covered
 
-This repo holds practical exercises, sample codes, and step-by-step explorations of various computer vision concepts using OpenCV. Each notebook builds on core OpenCV functions, paired with visual examples and in-line explanations.
-
+This repo holds practical exercises, sample codes, and step-by-step explorations of various computer vision concepts using OpenCV. Each notebook builds on core OpenCV functions, paired with  examples and explanations.
 
 - **Basic Image Operations**  
   Reading, resizing, rotating images; creating slideshows; handling multiple images.
